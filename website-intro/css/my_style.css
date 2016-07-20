@@ -1,0 +1,25 @@
+h1 {
+  color: #ff0000;
+}
+/*element selector: selects every element of that type on a page */
+li {
+  color: #0000FF;
+  font-family: Arial;
+}
+
+.purple{
+  color: purple;
+}
+/*class selector: selects a group of elements on a page with that class*/
+.green{
+  color: green;
+}
+
+/*id selector: only selects one element per page. */
+#kale{
+  font-size:20pt;
+}
+
+.snacks{
+  background-color: pink;
+}
